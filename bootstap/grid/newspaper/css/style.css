@@ -1,0 +1,24 @@
+body{
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 30px;
+}
+.banner{
+    width: 50%;
+
+}
+.title{
+    text-align: center;
+
+}
+.container{
+    column-width: 300px;
+    column-gap: 3em;
+    padding: 10px;
+}
+.para{
+    margin-top: 1px;
+    font-size: 1em;
+}
